@@ -55,6 +55,8 @@
   <project path="external/yaffs2" name="LineageOS/android_external_yaffs2" revision="cm-14.1" />
   <!-- <project path="external/zip" name="LineageOS/android_external_zip" /> -->
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" />
+    <copyfile dest="hardware/lineage/Android.bp" src="Android.bp"/>
+  </project>
   <!-- <project path="hardware/lineage/lineagehw" name="LineageOS/android_hardware_lineage_lineagehw" /> -->
   <!-- <project path="hardware/lineage/telephony" name="LineageOS/android_hardware_lineage_telephony" /> -->
   <!--<project path="hardware/ti/omap4" name="LineageOS/android_hardware_ti_omap4" />-->

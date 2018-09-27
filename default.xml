@@ -535,7 +535,7 @@
   <project path="system/security" name="LineageOS/android_system_security" groups="pdk" />
   <!-- <project path="system/timezone" name="platform/system/timezone" groups="pdk" remote="aosp" /> -->
   <!-- <project path="system/tools/aidl" name="LineageOS/android_system_tools_aidl" groups="pdk" /> -->
-  <!-- <project path="system/tools/hidl" name="LineageOS/android_system_tools_hidl" groups="pdk" /> -->
+  <project path="system/tools/hidl" name="LineageOS/android_system_tools_hidl" groups="pdk" />
   <!-- <project path="system/tpm" name="platform/system/tpm" remote="aosp" /> -->
   <!-- <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" remote="aosp" /> -->
   <project path="system/vold" name="LineageOS/android_system_vold" groups="pdk" />
